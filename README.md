@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-deixou logado na D18
-
 <!--
 **dynasmon/dynasmon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
