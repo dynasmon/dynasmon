@@ -6,14 +6,11 @@
 
 <p align="center">
   <a href="https://github.com/dynasmon"><img alt="GitHub profile" src="https://img.shields.io/badge/GitHub-@dynasmon-172033?style=flat-square&logo=github&logoColor=white"></a>
-  <a href="https://github.com/dynasmon/Seagull"><img alt="Seagull repository" src="https://img.shields.io/badge/Open_Source-Seagull-0F766E?style=flat-square&logo=github&logoColor=white"></a>
 </p>
 
 ## About me
 
 I'm a security practitioner focused on **offensive security, penetration testing, and adversary-informed engineering**. I assess web applications, internal networks, Linux hosts, cloud infrastructure, and segmented Windows environments.
-
-My work centers on understanding how real attack paths emerge: mapping exposed surfaces, testing privilege boundaries, validating segmentation controls, and determining how individual weaknesses can be chained into meaningful impact. I also build security tooling and infrastructure to study telemetry, detection, and defensive controls from the other side of the attack lifecycle.
 
 - **Security assessments:** web applications, networks, Linux, Windows, and cloud environments
 - **Adversarial research:** attack-path analysis, privilege escalation, lateral movement, and segmentation testing
@@ -51,14 +48,10 @@ A public Seagull instance is available for security research. You are welcome to
 ### Application, platform, and data
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-0F766E?style=flat-square&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-0F766E?style=flat-square&logo=react&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-0F766E?style=flat-square&logo=vite&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0F766E?style=flat-square&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-0F766E?style=flat-square&logo=nginx&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0F766E?style=flat-square&logo=postgresql&logoColor=white)
 ![ClickHouse](https://img.shields.io/badge/ClickHouse-0F766E?style=flat-square&logo=clickhouse&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-0F766E?style=flat-square&logo=elasticsearch&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-0F766E?style=flat-square&logo=redis&logoColor=white)
 
 ### Security frameworks
 
